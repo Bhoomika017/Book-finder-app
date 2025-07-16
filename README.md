@@ -30,5 +30,5 @@ A simple web application that allows users to search for books using the [Open L
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your-username/book-finder-app.git
+   git clone (https://github.com/Bhoomika017/Book-finder-app.git)
 
